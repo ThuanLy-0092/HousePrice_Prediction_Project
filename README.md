@@ -31,3 +31,37 @@ This project utilizes machine learning to predict house prices based on various 
   - If deep learning models are used, prefer and recommend the PyTorch framework.
   - Choose relevant metrics for model evaluation.
   - Perform model benchmarks and identify the best one for the problem if multiple models are employed.
+    
+### 4. Contribution
+
+### Team Leader: Lý Vĩnh Thuận
+- **Student ID:** 22280092
+
+**Contributions:**
+- Built data crawling tools.
+- Utilized LLM for feature extraction.
+- Contributed insights and solutions in Data Preprocessing & Feature Engineering.
+- Trained Linear Regression (Baseline), Ridge regression with polynomial, and tuned XGBoost using sklearn.
+- Developed geocoding tools.
+- Built web apps for house price prediction and showcasing the best model's performance.
+---
+
+### Team Member: Nguyễn Nhựt Trường
+- **Student ID:** 22280099
+
+**Contributions:**
+- Contributed insights and solutions in Data Collection.
+- Conducted EDA and provided data insights.
+- Handled Data Preprocessing and Feature Engineering.
+- Implemented LinearRegression from scratch.
+- Implemented Random Forest models and performed tuning.
+---
+
+### Team Member: Từ Thức
+- **Student ID:** 22280093
+
+**Contributions:**
+- Prepared documentation for LLM.
+- Designed methodologies.
+- Implemented Gradient Boosting from scratch.
+- Contributed insights and solutions in Data Collection.
