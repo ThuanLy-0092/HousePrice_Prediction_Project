@@ -1,7 +1,6 @@
 # House Price Prediction
 
-This project utilizes machine learning to predict house prices based on various features of the house and its location. The application is built using Streamlit, a Python framework for creating interactive web applications.
-
+This project utilizes machine learning to predict house prices based on various features of the house and its location.
 ## Project Files
 
 ### 1. Data Collection
