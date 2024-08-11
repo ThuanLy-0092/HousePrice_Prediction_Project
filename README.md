@@ -65,3 +65,5 @@ This project utilizes machine learning to predict house prices based on various 
 - Designed methodologies.
 - Implemented Gradient Boosting from scratch.
 - Contributed insights and solutions in Data Collection.
+
+### Score:10/10
